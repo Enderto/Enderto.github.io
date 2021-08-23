@@ -1,6 +1,6 @@
 body{
     background: #2c2c2b;
-    color: #eadab3;
+    color: #e67575;
 }
 
 h1{
@@ -9,6 +9,13 @@ h1{
 }
 
 fieldset{
+    border-radius: 10px;
+     width: 200px;
+     margin:auto;
+    background-color:#4a4a47;
+}
+
+div.main fieldset{
     border-radius: 10px;
      width: 400px;
      margin:auto;
