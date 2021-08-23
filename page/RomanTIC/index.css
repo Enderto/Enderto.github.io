@@ -10,14 +10,14 @@ h1{
 
 fieldset{
     border-radius: 10px;
-     width: 200px;
      margin:auto;
     background-color:#4a4a47;
 }
 
 div.main fieldset{
+	color:#d4d4d4;
     border-radius: 10px;
-     width: 400px;
+     width: 1000px;
      margin:auto;
     background-color:#4a4a47;
 }
@@ -26,3 +26,10 @@ a {
     color:#00ffee;
 }
 
+div.down p {
+	color:#545454
+}
+
+div.up fieldset {
+	height:40px;
+}

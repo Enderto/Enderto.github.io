@@ -37,3 +37,7 @@ div.up{
 div.up a{
     color:#6b9b6c;
 }
+
+div.down fieldset {
+	color:#545454
+}
