@@ -1,0 +1,43 @@
+body{
+    background: #2c2c2b;
+    color: #eadab3;
+}
+
+h1{
+    color:#eadab3;
+    text-align: center;
+}
+
+fieldset{
+    border-radius: 10px;
+    background-color:#4a4a47;
+}
+
+div.sidebar{
+    position: fixed;
+    left: 10px;
+    width: 140px;
+    z-index: 1;
+    top: 20%;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+
+a {
+    color:#dedede;
+}
+
+div.main{
+    margin-left: 150px;
+    padding: 0px 10px;
+}
+div.main a{
+    color: #d39b25;
+}
+
+div.up{
+    background-color:#534c3c;
+}
+div.up a{
+    color:#6b9b6c;
+}
