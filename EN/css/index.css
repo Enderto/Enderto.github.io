@@ -1,39 +1,37 @@
 body{
     background: #2c2c2b;
-    color: #eadab3;
+    color: #e67575;
 }
 
 h1{
-    color:#eadab3;
+    color:#e67575;
     text-align: center;
+    color:#d4d4d4;
 }
 
 fieldset{
     border-radius: 10px;
-    background-color:#534c3c;
+    margin:auto;
+    background-color:#4a4a47;
+    color:#d4d4d4;
 }
 
-div.sidebar{
-    position: fixed;
-    left: 10px;
-    width: 140px;
-    z-index: 1;
-    top: 120px;
-    overflow-x: hidden;
-    padding: 8px 0;
+div.main fieldset{
+    color:#d4d4d4;
+    border-radius: 10px;
+     width: 1000px;
+     margin:auto;
+    background-color:#4a4a47;
 }
 
-div.main{
-    margin-left: 150px;
-    padding: 0px 10px;
-}
-div.main a{
-    color: #d39b25;
+a {
+    color:#00ffee;
 }
 
-div.up{
-    background-color:#534c3c;
+div.down p {
+    color:#545454
 }
-div.up a{
-    color:#6b9b6c;
+
+div.up fieldset {
+    height:40px;
 }
