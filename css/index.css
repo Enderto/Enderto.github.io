@@ -35,3 +35,7 @@ div.down p {
 div.up fieldset {
     height:40px;
 }
+
+div.down a {
+    color:#545454 ;
+}

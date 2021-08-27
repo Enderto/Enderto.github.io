@@ -36,3 +36,7 @@ div.up fieldset {
 img {
   float: right;
 }
+
+div.down a {
+    color:#545454 ;
+}
